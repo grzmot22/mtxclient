@@ -1,5 +1,8 @@
 #pragma once
 
+#ifndef MTX_EVENTS_MESSAGES_AUDIO_HPP
+#define MTX_EVENTS_MESSAGES_AUDIO_HPP
+
 #include <json.hpp>
 #include <string>
 
