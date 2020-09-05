@@ -3,8 +3,6 @@
 
 #include "mtx/events/redaction.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace events {
 namespace msg {

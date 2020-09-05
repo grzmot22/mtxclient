@@ -3,7 +3,7 @@
 #include <json.hpp>
 #include <mtx.hpp>
 
-using json = nlohmann::json;
+
 
 namespace ns = mtx::events;
 

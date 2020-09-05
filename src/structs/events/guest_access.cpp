@@ -3,8 +3,6 @@
 
 #include "mtx/events/guest_access.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace events {
 namespace state {

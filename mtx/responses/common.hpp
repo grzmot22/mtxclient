@@ -7,14 +7,12 @@
 
 #include "mtx/events/collections.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace responses {
 
 struct EventId
 {
-	std::string event_id;
+        std::string event_id;
 };
 
 void

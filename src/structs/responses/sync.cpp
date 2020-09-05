@@ -4,8 +4,6 @@
 
 #include <boost_variant.hpp>
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace responses {
 

@@ -9,8 +9,6 @@
 #include "mtx/identifiers.hpp"
 #include <json.hpp>
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace responses {
 

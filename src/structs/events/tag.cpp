@@ -2,8 +2,6 @@
 
 #include "mtx/events/tag.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace events {
 namespace account_data {

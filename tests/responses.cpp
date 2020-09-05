@@ -7,8 +7,6 @@
 
 #include <mtx.hpp>
 
-using json = nlohmann::json;
-
 using namespace mtx::responses;
 using namespace mtx::events;
 

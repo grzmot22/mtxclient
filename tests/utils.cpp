@@ -5,8 +5,6 @@
 
 #include <olm/olm.h>
 
-using json = nlohmann::json;
-
 using namespace mtx::crypto;
 using namespace std;
 

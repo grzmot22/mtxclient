@@ -1,7 +1,5 @@
 #include "mtx/requests.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace requests {
 

@@ -2,8 +2,6 @@
 
 #include <json.hpp>
 
-using json = nlohmann::json;
-
 namespace mtx {
 
 //! Common structs used among many different event content types.

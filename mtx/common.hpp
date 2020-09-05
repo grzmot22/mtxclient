@@ -6,8 +6,6 @@
 #include <string>
 #include <vector>
 
-using json = nlohmann::json;
-
 //! Common types used by the crypto related endpoints.
 
 namespace mtx {

@@ -5,8 +5,6 @@
 #include <json.hpp>
 #include <mtx/common.hpp>
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace requests {
 

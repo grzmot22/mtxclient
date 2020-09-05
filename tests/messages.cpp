@@ -3,8 +3,6 @@
 #include <json.hpp>
 #include <mtx.hpp>
 
-using json = nlohmann::json;
-
 using namespace mtx::events;
 
 TEST(RoomEvents, Redacted)

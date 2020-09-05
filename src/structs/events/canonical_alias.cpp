@@ -4,8 +4,6 @@
 
 #include "mtx/events/canonical_alias.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace events {
 namespace state {

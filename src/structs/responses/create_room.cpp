@@ -3,8 +3,6 @@
 #include "mtx/identifiers.hpp"
 #include "mtx/responses/create_room.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace responses {
 

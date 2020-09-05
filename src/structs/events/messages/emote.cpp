@@ -4,8 +4,6 @@
 #include "mtx/events/common.hpp"
 #include "mtx/events/messages/emote.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace events {
 namespace msg {

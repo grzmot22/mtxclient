@@ -3,8 +3,6 @@
 
 #include "mtx/events/messages/file.hpp"
 
-using json = nlohmann::json;
-
 namespace common = mtx::common;
 
 namespace mtx {

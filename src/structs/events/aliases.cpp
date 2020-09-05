@@ -1,7 +1,5 @@
 #include <json.hpp>
 
-using json = nlohmann::json;
-
 #include "mtx/events/aliases.hpp"
 
 namespace mtx {

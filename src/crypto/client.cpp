@@ -5,7 +5,6 @@
 
 #include "sodium.h"
 
-using json = nlohmann::json;
 using namespace mtx::crypto;
 
 void

@@ -4,8 +4,6 @@
 #include "mtx/events/common.hpp"
 #include "mtx/events/messages/video.hpp"
 
-using json = nlohmann::json;
-
 namespace common = mtx::common;
 
 namespace mtx {

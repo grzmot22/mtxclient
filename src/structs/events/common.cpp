@@ -2,8 +2,6 @@
 
 #include "mtx/events/common.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace common {
 

@@ -3,8 +3,6 @@
 
 #include <mtx/common.hpp>
 
-using json = nlohmann::json;
-
 using namespace mtx::crypto;
 
 TEST(Crypto, DeviceKeys)

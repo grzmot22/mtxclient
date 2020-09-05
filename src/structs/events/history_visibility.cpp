@@ -3,8 +3,6 @@
 
 #include "mtx/events/history_visibility.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace events {
 namespace state {

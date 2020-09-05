@@ -3,8 +3,6 @@
 
 #include "mtx/responses/version.hpp"
 
-using json = nlohmann::json;
-
 static std::regex VERSION_REGEX("r(\\d+)\\.(\\d+)\\.(\\d+)");
 
 namespace mtx {

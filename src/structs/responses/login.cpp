@@ -1,7 +1,5 @@
 #include "mtx/responses/login.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace responses {
 

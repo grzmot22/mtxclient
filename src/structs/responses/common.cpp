@@ -18,7 +18,6 @@
 
 #include <iostream>
 
-using json = nlohmann::json;
 using namespace mtx::events::account_data;
 using namespace mtx::events::state;
 

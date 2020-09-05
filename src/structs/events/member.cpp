@@ -3,8 +3,6 @@
 
 #include "mtx/events/member.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace events {
 namespace state {

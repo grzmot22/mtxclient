@@ -4,7 +4,6 @@
 
 #include <mtx/requests.hpp>
 
-using json = nlohmann::json;
 using namespace mtx::requests;
 
 TEST(Requests, Login)

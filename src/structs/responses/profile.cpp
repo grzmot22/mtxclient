@@ -2,8 +2,6 @@
 
 #include "mtx/responses/profile.hpp"
 
-using json = nlohmann::json;
-
 namespace mtx {
 namespace responses {
 
