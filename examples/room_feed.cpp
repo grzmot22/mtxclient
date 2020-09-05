@@ -1,5 +1,5 @@
-#include <boost/beast.hpp>
-#include <boost/variant.hpp>
+#include <boost_beast.hpp>
+#include <boost_variant.hpp>
 #include <iostream>
 #include <unistd.h>
 

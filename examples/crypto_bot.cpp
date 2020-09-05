@@ -1,6 +1,6 @@
-#include <boost/algorithm/string/predicate.hpp>
-#include <boost/beast.hpp>
-#include <boost/variant.hpp>
+#include <boost_algorithm_string_predicate.hpp>
+#include <boost_beast.hpp>
+#include <boost_variant.hpp>
 
 #include <csignal>
 #include <cstdlib>

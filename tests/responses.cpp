@@ -2,7 +2,7 @@
 
 #include <fstream>
 
-#include <boost/variant.hpp>
+#include <boost_variant.hpp>
 #include <json.hpp>
 
 #include <mtx.hpp>

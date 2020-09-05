@@ -1,7 +1,7 @@
 #include <atomic>
 
-#include <boost/algorithm/string.hpp>
-#include <boost/variant.hpp>
+#include <boost_algorithm_string.hpp>
+#include <boost_variant.hpp>
 
 #include <gtest/gtest.h>
 

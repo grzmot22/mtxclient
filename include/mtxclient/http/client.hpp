@@ -4,14 +4,14 @@
 #include <mutex>
 #include <thread>
 
-#include <boost/asio.hpp>
-#include <boost/asio/ssl.hpp>
-#include <boost/beast.hpp>
-#include <boost/iostreams/stream.hpp>
-#include <boost/optional.hpp>
-#include <boost/signals2.hpp>
-#include <boost/signals2/signal_type.hpp>
-#include <boost/thread/thread.hpp>
+#include <boost_asio.hpp>
+#include <boost_asio_ssl.hpp>
+#include <boost_beast.hpp>
+#include <boost_iostreams_stream.hpp>
+#include <boost_optional.hpp>
+#include <boost_signals2.hpp>
+#include <boost_signals2_signal_type.hpp>
+#include <boost_thread_thread.hpp>
 #include <json.hpp>
 
 #include <mtx/requests.hpp>

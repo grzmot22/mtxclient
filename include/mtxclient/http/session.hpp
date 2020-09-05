@@ -1,8 +1,8 @@
 #pragma once
 
-#include <boost/asio.hpp>
-#include <boost/asio/ssl.hpp>
-#include <boost/beast.hpp>
+#include <boost_asio.hpp>
+#include <boost_asio_ssl.hpp>
+#include <boost_beast.hpp>
 
 #include "mtxclient/http/errors.hpp"
 #include "mtxclient/utils.hpp"

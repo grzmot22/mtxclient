@@ -1,6 +1,6 @@
-#include <boost/algorithm/string.hpp>
-#include <boost/bind.hpp>
-#include <boost/utility/typed_in_place_factory.hpp>
+#include <boost_algorithm_string.hpp>
+#include <boost_bind.hpp>
+#include <boost_utility_typed_in_place_factory.hpp>
 
 #include "mtxclient/http/client.hpp"
 #include "mtxclient/utils.hpp"

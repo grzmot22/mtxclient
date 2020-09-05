@@ -1,6 +1,6 @@
 #pragma once
 
-#include <boost/variant.hpp>
+#include <boost_variant.hpp>
 
 #include "mtx/events.hpp"
 #include "mtx/events/aliases.hpp"

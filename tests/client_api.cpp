@@ -1,8 +1,8 @@
 #include <atomic>
 #include <iostream>
 
-#include <boost/algorithm/string.hpp>
-#include <boost/variant.hpp>
+#include <boost_algorithm_string.hpp>
+#include <boost_variant.hpp>
 
 #include <gtest/gtest.h>
 
@@ -967,12 +967,11 @@ TEST(ClientAPI, ReadMarkers)
                                                 RequestErr err) {
                             check_error(err);
 
-                            alice->read_event(room_id.to_string(),
-                                              res.event_id,
-                                              [&event_id, res](RequestErr err) {
-                                                      check_error(err);
-                                                      event_id = res.event_id;
-                                              });
+                            alice->read_event(
+                              room_id.to_string(), res.event_id, [&event_id, res](RequestErr err) {
+                                      check_error(err);
+                                      event_id = res.event_id;
+                              });
                     });
 
                 while (event_id.size() == 0)

@@ -1,6 +1,6 @@
 #pragma once
 
-#include <boost/iostreams/device/array.hpp>
+#include <boost_iostreams_device_array.hpp>
 #include <iosfwd>
 #include <map>
 

@@ -2,7 +2,7 @@
 #include "mtx/events/collections.hpp"
 #include "mtx/responses/common.hpp"
 
-#include <boost/variant.hpp>
+#include <boost_variant.hpp>
 
 using json = nlohmann::json;
 
